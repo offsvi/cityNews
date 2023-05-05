@@ -99,6 +99,20 @@ body.fotos #navegacao a#fotos,
     background: blue;
 }
 
+#duas-colunas #primario {
+    width: 555px;
+    float: left;
+    margin: 0 0 20px 195px;
+    background: blue;
+}
+
+#uma-coluna #primario {
+    width: 750px;
+    float: left;
+    margin: 0 0 20px 0;
+    background: blue;
+}
+
 #secundario {
     width: 270px;
     float: left;
